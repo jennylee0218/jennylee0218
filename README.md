@@ -24,8 +24,6 @@ A math and economics background turned into applied AI work: building LLM system
 
 **On-device AI for United Airlines aircraft maintenance**: M.S. capstone building a retrieval-augmented multimodal small language model compressed for edge deployment.
 
-**30% faster client reporting at Jane Street**: SQL and Python pipelines over client trade data, plus XGBoost and logistic models identifying the drivers of client engagement.
-
 **Interned, then joined full time at BCG**: started as a Forward Deployed AI Scientist intern in June 2026 and converted to a full-time role.
 
 ---
