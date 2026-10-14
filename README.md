@@ -10,7 +10,7 @@
 
 A math and economics background turned into applied AI work: building LLM systems that people outside the data team actually use.
 
-**I'm a Forward Deployed AI Scientist at BCG**, building production-minded AI for clients: GraphRAG chatbots, natural-language analytics with guardrails, and fine-tuned models fast enough to deploy. Before that, I spent two summers in quantitative finance, at **Jane Street** (institutional sales & trading) and **D.E. Shaw** (fundamental research), modeling client behavior and forecasting company KPIs. I'm finishing an **M.S. in Applied Data Science at UChicago** (GPA 3.95, December 2026) on top of B.A.s in Mathematics and Economics, and I TA data analysis for MBA students at Chicago Booth.
+**I'm a Forward Deployed AI Scientist at BCG**, building production-minded AI for clients: GraphRAG chatbots, natural-language analytics with guardrails, and fine-tuned models fast enough to deploy. Before that, I spent two summers in quantitative finance, at **Jane Street** (institutional sales & trading) and **D.E. Shaw** (fundamental research), modeling client behavior and forecasting company KPIs. I'm finishing an **M.S. in Applied Data Science at UChicago** (December 2026) on top of B.A.s in Mathematics and Economics, and I TA data analysis for MBA students at Chicago Booth.
 
 ---
 
@@ -102,7 +102,7 @@ A math and economics background turned into applied AI work: building LLM system
 
 ## Education
 
-**M.S., Applied Data Science, University of Chicago** (GPA 3.95, December 2026) · **B.A., Mathematics & B.A., Economics, University of Chicago** (June 2025)
+**M.S., Applied Data Science, University of Chicago** (December 2026) · **B.A., Mathematics & B.A., Economics, University of Chicago** (June 2025)
 
 Dean's List · UChicago Advanced Scholar · Financial Markets Program Fellow (Chicago Booth MBA) · 2025 UGD Winter Game Jam, 1st place
 
