@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1B1F3A"/>
+      <stop offset="1" stop-color="#5A0F1C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <g stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1.5" fill="none">
+    <circle cx="1080" cy="80" r="6" fill="#FFFFFF" fill-opacity="0.18"/>
+    <circle cx="1180" cy="170" r="6" fill="#FFFFFF" fill-opacity="0.18"/>
+    <circle cx="1010" cy="220" r="6" fill="#FFFFFF" fill-opacity="0.18"/>
+    <circle cx="1130" cy="270" r="6" fill="#FFFFFF" fill-opacity="0.18"/>
+    <circle cx="940" cy="110" r="6" fill="#FFFFFF" fill-opacity="0.18"/>
+    <path d="M1080 80 L1180 170 L1130 270 L1010 220 L940 110 L1080 80 L1010 220 M1180 170 L1010 220"/>
+  </g>
+  <text x="80" y="150" font-family="Georgia, 'Times New Roman', serif" font-size="72" fill="#FFFFFF">Jenny Lee</text>
+  <rect x="82" y="176" width="90" height="4" fill="#C8A2A8"/>
+  <text x="80" y="226" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#E6E6EE">Forward Deployed AI Scientist · Applied Data Science</text>
+  <text x="80" y="264" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#B9B9C8">BCG · University of Chicago · Chicago, IL</text>
+</svg>
