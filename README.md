@@ -22,7 +22,7 @@ A math and economics background turned into applied AI work: building LLM system
 
 **Executives querying business data in plain English**: an LLM-powered analytics assistant over semi-structured data, with SQL validation and access-control guardrails to prevent unauthorized access.
 
-**On-device AI for United Airlines aircraft maintenance**: M.S. capstone building a retrieval-augmented multimodal small language model compressed for edge deployment.
+**On-device AI for United Airlines**: M.S. capstone building a retrieval-augmented multimodal small language model compressed for edge deployment.
 
 **Interned, then joined full time at BCG**: started as a Forward Deployed AI Scientist intern in June 2026 and converted to a full-time role.
 
@@ -78,7 +78,7 @@ A math and economics background turned into applied AI work: building LLM system
 
 ## Selected work
 
-**On-Device AI Assistant for Real-Time Aircraft Maintenance (United Airlines, M.S. capstone)**: a retrieval-augmented multimodal small language model built for edge deployment. Optimizing the RAG pipeline and compressing the model with distillation, QLoRA, and vector quantization, delivered as a CLI/API prototype with a model card and evaluation framework.
+**Retrieval-Augmented Edge Architecture for a Multimodal Airline-Native SLM (United Airlines, M.S. capstone)**: a retrieval-augmented multimodal small language model built for edge deployment. Optimizing the RAG pipeline and compressing the model with distillation, QLoRA, and vector quantization, delivered as a CLI/API prototype with a model card and evaluation framework.
 
 **GraphRAG client chatbot (BCG)**: a customer-facing proof of concept, presented at a client executive readout to an audience of 100+.
 
@@ -86,15 +86,11 @@ A math and economics background turned into applied AI work: building LLM system
 
 **[Hybrid Recommendation System for Beauty E-Commerce](https://github.com/jennylee0218/ML_Recommendation_System_Project)**: a 5-slot recommender that combines SVD collaborative filtering, TF-IDF content similarity, and business rules for replenishment, cross-sell, and new-product discovery, built to cope with a sparse long-tail catalog.
 
-**ETF market microstructure research (Jane Street)**: presented to senior analysts across the quant trading and institutional sales teams.
-
 ---
 
 ## Teaching & leadership
 
-**Graduate Teaching Assistant, Chicago Booth** (January 2026 – present): mentoring MBA students on AI/ML topics in BUSN 32120: Data Analysis in Python and SQL.
-
-**Co-President & Portfolio Manager, Sustainable Investing Group** (2022 – 2025): directed 10-week pro-bono consulting projects with 8 ESG-focused firms and managed an impact investing portfolio.
+**Graduate Teaching Assistant, Chicago Booth** (January 2026 – present): mentoring MBA students on AI/ML topics in BUSN 43100: AI Essentials and BUSN 32120: Data Analysis in Python and SQL.
 
 ---
 
